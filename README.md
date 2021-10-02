@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gangster1322
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in python
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me? Contact me on telegram
      https://telegram.me/Wave_Gangster
